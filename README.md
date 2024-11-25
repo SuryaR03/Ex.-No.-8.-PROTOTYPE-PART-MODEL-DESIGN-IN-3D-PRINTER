@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/fa66b18d-abe7-49d3-a5b2-695bdec2c939)
+![EMPD EX 3](https://github.com/user-attachments/assets/164ee05a-f1f9-4534-86f7-89df9549bc03)
+
 
 ### Name: SURYA R
 ### Register Number: 212223110056
